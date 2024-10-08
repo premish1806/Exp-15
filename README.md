@@ -38,6 +38,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/ebce8617-78a4-4eac-add7-cb4a236156da)
+
 
 ## Program 2: Find Fibonacci number in the Fibonacci sequence using recursion.
 <strong> Code: </strong>
@@ -71,6 +73,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/aa2f625f-b7a8-4972-8e67-50863bc3773e)
+
 
 ## Program 3: Find sum of n natural numbers using recursion, n is the value entered by user.
 <strong> Code: </strong>
@@ -104,6 +108,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/0df831b5-0091-496d-92ff-e2e2226c78e6)
+
 
 ## Conclusion:
 we learned how to use recursion to solve problems like calculating factorials, generating Fibonacci numbers, and adding natural numbers. 
